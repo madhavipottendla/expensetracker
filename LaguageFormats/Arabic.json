@@ -1,0 +1,59 @@
+{
+    "Currency": "العملة",
+    "Language": "اللغة",
+    "Theme": "السمة",
+    "Security": "الأمان",
+    "Notification": "الإشعارات",
+    "About": "حول",
+    "Help": "المساعدة",
+    
+    
+    "UnitedStates": "الولايات المتحدة (USD)",
+    "Indonesia": "إندونيسيا (IDR)",
+    "Japan": "اليابان (JPY)",
+    "Russia": "روسيا (RUB)",
+    "Germany": "ألمانيا (EUR)",
+    "Korea": "كوريا (WON)",
+    
+    
+    "English": "العربية(AR)",
+    "Indonesian": "الإندونيسية(ID)",
+    "Arabic": "العربية(AR)",
+    "Chinese": "الصينية(ZH)",
+    "Dutch": "الهولندية(NL)",
+    "French": "الفرنسية(FR)",
+    "German": "الألمانية(DE)",
+    "Italian": "الإيطالية(IT)",
+    "Korean": "الكورية(KO)",
+    "Portuguese": "البرتغالية(PT)",
+    "Russian": "الروسية(RU)",
+    "Spanish": "الإسبانية(ES)",
+    
+    
+    "Light": "فاتح",
+    "Dark": "داكن",
+    "Usedevicetheme": "استخدم سمة الجهاز",
+    
+    
+    "PIN": "الرقم السري الشخصي",
+    "Fingerprint": "بصمة الإصبع",
+    "FaceID": "تعرف الوجه",
+    
+    
+    "ExpenseAlert": "تنبيه النفقات",
+    "Getnotificationaboutyou’re": "احصل على إشعار بشأن",
+    "Dexpense": "نفقاتك",
+    "Budget": "الميزانية",
+    "Getnotificationwhenyou’re": "احصل على إشعار عندما",
+    "Dbudgetexceedingthelimit": "تتجاوز الميزانية الحد",
+    "Tips&Articles": "نصائح ومقالات",
+    "Small&usefulpiecesofpractical": "قطع صغيرة ومفيدة من المشورة",
+    "Dfinancialadvice": "نصيحة مالية",
+
+
+    "Account": "حساب",
+    "Settings": "الإعدادات",
+    "ExportData": "تصدير البيانات",
+    "Logout": "تسجيل الخروج",
+    "Username": "用户名"
+}

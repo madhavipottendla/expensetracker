@@ -1,0 +1,59 @@
+{
+    "Currency": "Valuta",
+    "Language": "Taal",
+    "Theme": "Thema",
+    "Security": "Veiligheid",
+    "Notification": "Melding",
+    "About": "Over",
+    "Help": "Helpen",
+    
+    
+    "UnitedStates": "Verenigde Staten (USD)",
+    "Indonesia": "Indonesië (IDR)",
+    "Japan": "Japan (JPY)",
+    "Russia": "Rusland (RUB)",
+    "Germany": "Duitsland (EUR)",
+    "Korea": "Zuid-Korea (WON)",
+    
+    
+    "English": "Nederlands(NL)",
+    "Indonesian": "Indonesisch(ID)",
+    "Arabic": "Arabisch(AR)",
+    "Chinese": "Chinees(ZH)",
+    "Dutch": "Nederlands(NL)",
+    "French": "Frans(FR)",
+    "German": "Duits(DE)",
+    "Italian": "Italiaans(IT)",
+    "Korean": "Koreaans(KO)",
+    "Portuguese": "Portugees(PT)",
+    "Russian": "Russisch(RU)",
+    "Spanish": "Spaans(ES)",
+    
+    
+    "Light": "Licht",
+    "Dark": "Donker",
+    "Usedevicetheme": "Gebruik apparaatthema",
+    
+    
+    "PIN": "PIN",
+    "Fingerprint": "Vingerafdruk",
+    "FaceID": "Gezichtsherkenning",
+    
+    
+    "ExpenseAlert": "Uitgavenwaarschuwing",
+    "Getnotificationaboutyou’re": "Ontvang meldingen over uw",
+    "Dexpense": "uitgaven",
+    "Budget": "Begroting",
+    "Getnotificationwhenyou’re": "Ontvang melding wanneer uw",
+    "Dbudgetexceedingthelimit": "begroting de limiet overschrijdt",
+    "Tips&Articles": "Tips & Artikelen",
+    "Small&usefulpiecesofpractical": "Kleine en nuttige stukjes praktisch",
+    "Dfinancialadvice": "financieel advies",
+     
+
+    "Account": "Account",
+    "Settings": "Instellingen",
+    "ExportData": "Exporteer gegevens",
+    "Logout": "Uitloggen",
+    "Username": "Gebruikersnaam"
+}

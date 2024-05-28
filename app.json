@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Tracker",
+    "slug": "Tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "plugins": [
+        [
+          "expo-camera",
+          {
+            "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+            "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone",
+            "recordAudioAndroid": true
+          }
+        ]
+      ]
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ridhitek.Tracker"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9cd17389-3b0d-4019-8f55-ace9b2b0dcb5"
+      }
+    }
+  }
+}

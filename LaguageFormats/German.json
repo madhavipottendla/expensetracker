@@ -1,0 +1,59 @@
+{
+    "Currency": "Währung",
+    "Language": "Sprache",
+    "Theme": "Thema",
+    "Security": "Sicherheit",
+    "Notification": "Benachrichtigung",
+    "About": "Über",
+    "Help": "Hilfe",
+    
+    
+    "UnitedStates": "Vereinigte Staaten (USD)",
+    "Indonesia": "Indonesien (IDR)",
+    "Japan": "Japan (JPY)",
+    "Russia": "Russland (RUB)",
+    "Germany": "Deutschland (EUR)",
+    "Korea": "Korea (WON)",
+    
+    
+    "English": "Deutsch(DE)",
+    "Indonesian": "Indonesisch(ID)",
+    "Arabic": "Arabisch(AR)",
+    "Chinese": "Chinesisch(ZH)",
+    "Dutch": "Niederländisch(NL)",
+    "French": "Französisch(FR)",
+    "German": "Deutsch(DE)",
+    "Italian": "Italienisch(IT)",
+    "Korean": "Koreanisch(KO)",
+    "Portuguese": "Portugiesisch(PT)",
+    "Russian": "Russisch(RU)",
+    "Spanish": "Spanisch(ES)",
+    
+    
+    "Light": "Hell",
+    "Dark": "Dunkel",
+    "Usedevicetheme": "Gerätethema verwenden",
+    
+    
+    "PIN": "PIN",
+    "Fingerprint": "Fingerabdruck",
+    "FaceID": "Gesichtserkennung",
+    
+    
+    "ExpenseAlert": "Ausgabenbenachrichtigung",
+    "Getnotificationaboutyou’re": "Erhalten Sie Benachrichtigungen über Ihre",
+    "Dexpense": "Ausgaben",
+    "Budget": "Budget",
+    "Getnotificationwhenyou’re": "Erhalten Sie eine Benachrichtigung, wenn Ihr",
+    "Dbudgetexceedingthelimit": "Budget die Grenze überschreitet",
+    "Tips&Articles": "Tipps & Artikel",
+    "Small&usefulpiecesofpractical": "Kleine und nützliche Stücke praktischer",
+    "Dfinancialadvice": "Finanzberatung",
+
+
+    "Account": "Konto",
+    "Settings": "Einstellungen",
+    "ExportData": "Daten exportieren",
+    "Logout": "Ausloggen",
+    "Username": "Benutzername"
+}

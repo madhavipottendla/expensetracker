@@ -1,0 +1,59 @@
+{
+    "Currency": "통화",
+    "Language": "언어",
+    "Theme": "테마",
+    "Security": "보안",
+    "Notification": "알림",
+    "About": "정보",
+    "Help": "도움말",
+    
+    
+    "UnitedStates": "미국 (USD)",
+    "Indonesia": "인도네시아 (IDR)",
+    "Japan": "일본 (JPY)",
+    "Russia": "러시아 (RUB)",
+    "Germany": "독일 (EUR)",
+    "Korea": "한국 (WON)",
+    
+    
+    "English": "한국어(KO)",
+    "Indonesian": "인도네시아어(ID)",
+    "Arabic": "아랍어(AR)",
+    "Chinese": "중국어(ZH)",
+    "Dutch": "네덜란드어(NL)",
+    "French": "프랑스어(FR)",
+    "German": "독일어(DE)",
+    "Italian": "이탈리아어(IT)",
+    "Korean": "한국어(KO)",
+    "Portuguese": "포르투갈어(PT)",
+    "Russian": "러시아어(RU)",
+    "Spanish": "스페인어(ES)",
+    
+    
+    "Light": "밝게",
+    "Dark": "어둡게",
+    "Usedevicetheme": "기기 테마 사용",
+    
+    
+    "PIN": "PIN",
+    "Fingerprint": "지문",
+    "FaceID": "얼굴 인식",
+    
+    
+    "ExpenseAlert": "지출 경보",
+    "Getnotificationaboutyou’re": "당신의",
+    "Dexpense": "지출에 대한 알림 받기",
+    "Budget": "예산",
+    "Getnotificationwhenyou’re": "당신의",
+    "Dbudgetexceedingthelimit": "예산이 한계를 초과 할 때 알림 받기",
+    "Tips&Articles": "팁 및 기사",
+    "Small&usefulpiecesofpractical": "작고 유용한 실용적인 조각들",
+    "Dfinancialadvice": "금융 조언",
+
+
+    "Account": "계정",
+    "Settings": "설정",
+    "ExportData": "데이터 내보내기",
+    "Logout": "로그아웃",
+    "Username": "사용자 이름"
+}

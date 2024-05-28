@@ -1,0 +1,53 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.3.3",
+    "@emailjs/react-native": "^4.2.2",
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-native-community/geolocation": "^3.2.1",
+    "@react-native-community/slider": "^4.5.2",
+    "@react-native-firebase/app": "^19.2.1",
+    "@react-native-firebase/auth": "^19.2.1",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/drawer": "^6.6.15",
+    "@react-navigation/material-bottom-tabs": "^6.2.28",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/stack": "^6.3.29",
+    "axios": "^1.6.8",
+    "emailjs": "^4.0.3",
+    "expo": "^51.0.8",
+    "expo-local-authentication": "~13.8.0",
+    "expo-status-bar": "~1.11.1",
+    "express": "^4.19.2",
+    "firebase": "^10.11.0",
+    "i18next": "^23.11.0",
+    "nodemailer": "^6.9.13",
+    "react": "18.2.0",
+    "react-i18next": "^14.1.0",
+    "react-icons": "^5.0.1",
+    "react-native": "0.73.6",
+    "react-native-element-dropdown": "^2.10.4",
+    "react-native-email-link": "^1.16.0",
+    "react-native-gesture-handler": "~2.14.0",
+    "react-native-image-picker": "^7.1.2",
+    "react-native-mail": "^6.1.1",
+    "react-native-paper": "^5.12.3",
+    "react-native-reanimated": "~3.6.2",
+    "react-native-sqlite-storage": "^6.0.1",
+    "react-native-svg-uri": "^1.2.3",
+    "react-native-vector-icons": "^10.0.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

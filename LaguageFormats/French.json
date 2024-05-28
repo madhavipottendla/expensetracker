@@ -1,0 +1,59 @@
+{
+    "Currency": "Devise",
+    "Language": "Langue",
+    "Theme": "Thème",
+    "Security": "Sécurité",
+    "Notification": "Notification",
+    "About": "À propos",
+    "Help": "Aide",
+    
+    
+    "UnitedStates": "États-Unis (USD)",
+    "Indonesia": "Indonésie (IDR)",
+    "Japan": "Japon (JPY)",
+    "Russia": "Russie (RUB)",
+    "Germany": "Allemagne (EUR)",
+    "Korea": "Corée (WON)",
+    
+    
+    "English": "Français(FR)",
+    "Indonesian": "Indonésien(ID)",
+    "Arabic": "Arabe(AR)",
+    "Chinese": "Chinois(ZH)",
+    "Dutch": "Néerlandais(NL)",
+    "French": "Français(FR)",
+    "German": "Allemand(DE)",
+    "Italian": "Italien(IT)",
+    "Korean": "Coréen(KO)",
+    "Portuguese": "Portugais(PT)",
+    "Russian": "Russe(RU)",
+    "Spanish": "Espagnol(ES)",
+    
+    
+    "Light": "Clair",
+    "Dark": "Sombre",
+    "Usedevicetheme": "Utiliser le thème du périphérique",
+    
+    
+    "PIN": "NIP",
+    "Fingerprint": "Empreinte digitale",
+    "FaceID": "Identification faciale",
+    
+    
+    "ExpenseAlert": "Alerte de dépenses",
+    "Getnotificationaboutyou’re": "Recevez des notifications concernant vos",
+    "Dexpense": "dépenses",
+    "Budget": "Budget",
+    "Getnotificationwhenyou’re": "Recevez une notification lorsque votre",
+    "Dbudgetexceedingthelimit": "budget dépasse la limite",
+    "Tips&Articles": "Conseils et articles",
+    "Small&usefulpiecesofpractical": "Petits et utiles morceaux de conseils",
+    "Dfinancialadvice": "conseils financiers",
+
+
+    "Account": "Compte",
+    "Settings": "Paramètres",
+    "ExportData": "Exporter des données",
+    "Logout": "Déconnexion",
+    "Username": "Nom d'utilisateur" 
+}

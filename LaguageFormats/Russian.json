@@ -1,0 +1,60 @@
+{
+    "Currency": "Валюта",
+    "Language": "Язык",
+    "Theme": "Тема",
+    "Security": "Безопасность",
+    "Notification": "Уведомление",
+    "About": "О нас",
+    "Help": "Помощь",
+    
+    
+    "UnitedStates": "Соединенные Штаты (USD)",
+    "Indonesia": "Индонезия (IDR)",
+    "Japan": "Япония (JPY)",
+    "Russia": "Россия (RUB)",
+    "Germany": "Германия (EUR)",
+    "Korea": "Корея (WON)",
+    
+    
+    "English": "Русский(RU)",
+    "Indonesian": "Индонезийский(ID)",
+    "Arabic": "Арабский(AR)",
+    "Chinese": "Китайский(ZH)",
+    "Dutch": "Голландский(NL)",
+    "French": "Французский(FR)",
+    "German": "Немецкий(DE)",
+    "Italian": "Итальянский(IT)",
+    "Korean": "Корейский(KO)",
+    "Portuguese": "Португальский(PT)",
+    "Russian": "Русский(RU)",
+    "Spanish": "Испанский(ES)",
+    
+    
+    "Light": "Светлый",
+    "Dark": "Темный",
+    "Usedevicetheme": "Использовать тему устройства",
+    
+    
+    "PIN": "Пин-код",
+    "Fingerprint": "Отпечаток пальца",
+    "FaceID": "Идентификация лица",
+    
+    
+    "ExpenseAlert": "Предупреждение о расходах",
+    "Getnotificationaboutyou’re": "Получайте уведомления о ваших",
+    "Dexpense": "расходах",
+    "Budget": "Бюджет",
+    "Getnotificationwhenyou’re": "Получайте уведомление, когда ваш",
+    "Dbudgetexceedingthelimit": "бюджет превышает лимит",
+    "Tips&Articles": "Советы и статьи",
+    "Small&usefulpiecesofpractical": "Маленькие и полезные кусочки практических",
+    "Dfinancialadvice": "финансовый совет",
+
+
+
+    "Account": "Аккаунт",
+    "Settings": "Настройки",
+    "ExportData": "Экспорт данных",
+    "Logout": "Выйти",
+    "Username": "Имя пользователя"
+}

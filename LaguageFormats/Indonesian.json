@@ -1,0 +1,61 @@
+{
+    "Currency": "Mata Uang",
+    "Language": "Bahasa",
+    "Theme": "Tema",
+    "Security": "Keamanan",
+    "Notification": "Notifikasi",
+    "About": "Tentang",
+    "Help": "Bantuan",
+    
+    
+    "UnitedStates": "Amerika Serikat (USD)",
+    "Indonesia": "Indonesia (IDR)",
+    "Japan": "Jepang (JPY)",
+    "Russia": "Rusia (RUB)",
+    "Germany": "Jerman (EUR)",
+    "Korea": "Korea (WON)",
+    
+    
+    "English": "Indonesia(ID)",
+    "Indonesian": "Indonesia(ID)",
+    "Arabic": "Arab(AR)",
+    "Chinese": "Cina(ZH)",
+    "Dutch": "Belanda(NL)",
+    "French": "Prancis(FR)",
+    "German": "Jerman(DE)",
+    "Italian": "Italia(IT)",
+    "Korean": "Korea(KO)",
+    "Portuguese": "Portugis(PT)",
+    "Russian": "Rusia(RU)",
+    "Spanish": "Spanyol(ES)",
+    
+    
+    "Light": "Terang",
+    "Dark": "Gelap",
+    "Usedevicetheme": "Gunakan tema perangkat",
+    
+    
+    "PIN": "PIN",
+    "Fingerprint": "Sidik jari",
+    "FaceID": "Pengenalan wajah",
+    
+    
+    "ExpenseAlert": "Peringatan Pengeluaran",
+    "Getnotificationaboutyou’re": "Dapatkan notifikasi tentang",
+    "Dexpense": "pengeluaran",
+    "Budget": "Anggaran",
+    "Getnotificationwhenyou’re": "Dapatkan notifikasi ketika",
+    "Dbudgetexceedingthelimit": "anggaran melebihi batas",
+    "Tips&Articles": "Tips & Artikel",
+    "Small&usefulpiecesofpractical": "Potongan kecil dan berguna dari saran",
+    "Dfinancialadvice": "saran keuangan",
+
+
+    "Account": "Akun",
+    "Settings": "Pengaturan",
+    "ExportData": "Ekspor Data",
+    "Logout": "Keluar",
+    "Username": "Nama Pengguna"
+
+
+}

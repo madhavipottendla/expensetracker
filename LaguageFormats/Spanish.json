@@ -1,0 +1,59 @@
+{
+    "Currency": "Moneda",
+    "Language": "Idioma",
+    "Theme": "Tema",
+    "Security": "Seguridad",
+    "Notification": "Notificación",
+    "About": "Acerca de",
+    "Help": "Ayuda",
+    
+    
+    "UnitedStates": "Estados Unidos (USD)",
+    "Indonesia": "Indonesia (IDR)",
+    "Japan": "Japón (JPY)",
+    "Russia": "Rusia (RUB)",
+    "Germany": "Alemania (EUR)",
+    "Korea": "Corea (WON)",
+    
+    
+    "English": "Español(ES)",
+    "Indonesian": "Indonesio(ID)",
+    "Arabic": "Árabe(AR)",
+    "Chinese": "Chino(ZH)",
+    "Dutch": "Holandés(NL)",
+    "French": "Francés(FR)",
+    "German": "Alemán(DE)",
+    "Italian": "Italiano(IT)",
+    "Korean": "Coreano(KO)",
+    "Portuguese": "Portugués(PT)",
+    "Russian": "Ruso(RU)",
+    "Spanish": "Español(ES)",
+    
+    
+    "Light": "Claro",
+    "Dark": "Oscuro",
+    "Usedevicetheme": "Usar tema del dispositivo",
+    
+    
+    "PIN": "PIN",
+    "Fingerprint": "Huella dactilar",
+    "FaceID": "Identificación facial",
+    
+    
+    "ExpenseAlert": "Alerta de gastos",
+    "Getnotificationaboutyou’re": "Reciba notificaciones sobre sus",
+    "Dexpense": "gastos",
+    "Budget": "Presupuesto",
+    "Getnotificationwhen you’re": "Reciba una notificación cuando su",
+    "Dbudgetexceedingthelimit": "presupuesto exceda el límite",
+    "Tips&Articles": "Consejos y artículos",
+    "Small&usefulpiecesofpractical": "Pequeñas y útiles piezas de consejo práctico",
+    "Dfinancialadvice": "consejo financiero",
+
+
+    "Account": "Cuenta",
+    "Settings": "Ajustes",
+    "ExportData": "Exportar datos",
+    "Logout": "Cerrar sesión",
+    "Username": "Nombre de usuario"
+}

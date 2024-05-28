@@ -1,0 +1,59 @@
+{
+    "Currency": "Valuta",
+    "Language": "Lingua",
+    "Theme": "Tema",
+    "Security": "Sicurezza",
+    "Notification": "Notifica",
+    "About": "Informazioni",
+    "Help": "Aiuto",
+    
+    
+    "UnitedStates": "Stati Uniti (USD)",
+    "Indonesia": "Indonesia (IDR)",
+    "Japan": "Giappone (JPY)",
+    "Russia": "Russia (RUB)",
+    "Germany": "Germania (EUR)",
+    "Korea": "Corea (WON)",
+    
+    
+    "English": "Italiano(IT)",
+    "Indonesian": "Indonesiano(ID)",
+    "Arabic": "Arabo(AR)",
+    "Chinese": "Cinese(ZH)",
+    "Dutch": "Olandese(NL)",
+    "French": "Francese(FR)",
+    "German": "Tedesco(DE)",
+    "Italian": "Italiano(IT)",
+    "Korean": "Coreano(KO)",
+    "Portuguese": "Portoghese(PT)",
+    "Russian": "Russo(RU)",
+    "Spanish": "Spagnolo(ES)",
+    
+    
+    "Light": "Chiaro",
+    "Dark": "Scuro",
+    "Usedevicetheme": "Usa il tema del dispositivo",
+    
+    
+    "PIN": "PIN",
+    "Fingerprint": "Impronta digitale",
+    "FaceID": "ID del volto",
+    
+    
+    "ExpenseAlert": "Avviso di spesa",
+    "Getnotificationaboutyou’re": "Ricevi notifiche sulla tua",
+    "Dexpense": "spesa",
+    "Budget": "Budget",
+    "Getnotificationwhenyou’re": "Ricevi una notifica quando il tuo",
+    "Dbudgetexceedingthelimit": "budget supera il limite",
+    "Tips&Articles": "Consigli e articoli",
+    "Small&usefulpiecesofpractical": "Piccoli e utili pezzi di consigli pratici",
+    "Dfinancialadvice": "consiglio finanziario",
+
+
+    "Account": "Account",
+    "Settings": "Impostazioni",
+    "ExportData": "Esporta dati",
+    "Logout": "Esci",
+    "Username": "Nome utente"
+}

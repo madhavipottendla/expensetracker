@@ -1,0 +1,59 @@
+{
+    "Currency": "货币",
+    "Language": "语言",
+    "Theme": "主题",
+    "Security": "安全",
+    "Notification": "通知",
+    "About": "关于",
+    "Help": "帮助",
+    
+    
+    "UnitedStates": "美国 (USD)",
+    "Indonesia": "印度尼西亚 (IDR)",
+    "Japan": "日本 (JPY)",
+    "Russia": "俄罗斯 (RUB)",
+    "Germany": "德国 (EUR)",
+    "Korea": "韩国 (WON)",
+    
+    
+    "English": "中文(ZH)",
+    "Indonesian": "印度尼西亚语(ID)",
+    "Arabic": "阿拉伯语(AR)",
+    "Chinese": "中文(ZH)",
+    "Dutch": "荷兰语(NL)",
+    "French": "法语(FR)",
+    "German": "德语(DE)",
+    "Italian": "意大利语(IT)",
+    "Korean": "韩语(KO)",
+    "Portuguese": "葡萄牙语(PT)",
+    "Russian": "俄语(RU)",
+    "Spanish": "西班牙语(ES)",
+    
+    
+    "Light": "明亮",
+    "Dark": "黑暗",
+    "Usedevicetheme": "使用设备主题",
+    
+    
+    "PIN": "PIN码",
+    "Fingerprint": "指纹",
+    "FaceID": "面部识别",
+    
+    
+    "ExpenseAlert": "费用警报",
+    "Getnotificationaboutyou’re": "收到关于您的通知",
+    "Dexpense": "费用",
+    "Budget": "预算",
+    "Getnotificationwhenyou’re": "收到您的通知时",
+    "Dbudgetexceedingthelimit": "预算超出限制",
+    "Tips&Articles": "技巧和文章",
+    "Small&usefulpiecesofpractical": "小而实用的实用建议",
+    "Dfinancialadvice": "财务建议",
+
+
+    "Account": "帐户",
+    "Settings": "设置",
+    "ExportData": "导出数据",
+    "Logout": "注销",
+    "Username": "用户名"
+}
